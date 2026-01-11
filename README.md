@@ -1,0 +1,48 @@
+🎞️ Vanilla JavaScript Image Slider
+
+A simple and clean image slider built with HTML, CSS, and Vanilla JavaScript.
+This project demonstrates basic DOM manipulation, auto-play functionality, and manual navigation using previous/next buttons.
+
+✨ Features
+
+✅ Auto-slide every 4 seconds
+
+✅ Previous / Next navigation buttons
+
+✅ Smooth fade & scale animation between slides
+
+✅ Responsive and centered layout
+
+✅ Built with pure JavaScript (no frameworks)
+
+
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+Vanilla JavaScript
+
+Bootstrap (for base styling)
+
+Icofont icons
+
+
+
+⚙️ How It Works
+
+Images are stored in an array inside JavaScript
+
+Slider automatically switches images every 4 seconds
+
+Clicking Next or Previous buttons manually changes slides
+
+On page load, the first image is displayed automatically
+
+Clone the repository:
+
+git clone https://github.com/Omid-Shamkhali/javascript-image-slider.git
+
+Open index.html in your browser
