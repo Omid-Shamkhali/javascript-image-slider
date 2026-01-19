@@ -1,7 +1,11 @@
-🎞️ Vanilla JavaScript Image Slider
+🎞️  JavaScript Image Slider
 --
 A simple and clean image slider built with HTML, CSS, and Vanilla JavaScript.
 This project demonstrates basic DOM manipulation, auto-play functionality, and manual navigation using previous/next buttons.
+
+🔗 Live Demo
+--
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://omid-shamkhali.github.io/javascript-image-slider/)
 
 ✨ Features
 --
@@ -40,9 +44,7 @@ On page load, the first image is displayed automatically
 Open index.html in your browser
 
 
-🔗 Live Demo
---
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://github.com/Omid-Shamkhali/javascript-image-slider.git)
+
 
 
 
